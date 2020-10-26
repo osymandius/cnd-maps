@@ -1,0 +1,224 @@
+title,id,pin,action,x,y
+Afghanistan,af,hidden,default,0.6727,0.547
+Albania,al,hidden,default,0.5537,0.5095
+Algeria,dz,hidden,default,0.5069,0.5747
+American Samoa,as,hidden,default,0.9445,0.7589
+Andorra,ad,hidden,default,0.5068,0.5017
+Angola,ao,hidden,default,0.5437,0.7457
+Anguilla,ai,hidden,default,0.3262,0.6223
+Antarctica,aq,hidden,default,0.4654,1.0045
+Antigua and Barbuda,ag,hidden,default,0.3345,0.6274
+Argentina,ar,hidden,default,0.3288,0.8307
+Armenia,am,hidden,default,0.6175,0.5128
+Aruba,aw,hidden,default,0.308,0.6435
+Australia,au,hidden,default,0.8663,0.8029
+Austria,at,hidden,default,0.5395,0.4702
+Azerbaijan,az,hidden,default,0.6257,0.5153
+Bahamas,bs,hidden,default,0.2904,0.5932
+Bahrain,bh,hidden,default,0.6333,0.584
+Bangladesh,bd,hidden,default,0.736,0.5958
+Barbados,bb,hidden,default,0.3447,0.6374
+Belarus,by,hidden,default,0.5766,0.4335
+Belgium,be,hidden,default,0.5139,0.4522
+Belize,bz,hidden,default,0.2632,0.6259
+Benin,bj,hidden,default,0.5082,0.6513
+Bermuda,bm,hidden,default,0.3202,0.5655
+Bhutan,bt,hidden,default,0.7372,0.5777
+Bolivia,bo,hidden,default,0.3264,0.7709
+Bosnia and Herzegovina,ba,hidden,default,0.547,0.4926
+Botswana,bw,hidden,default,0.5647,0.7889
+Bouvet Island,bv,hidden,default,0.4622,0.9056
+Brazil,br,hidden,default,0.3617,0.7445
+Brunei Darussalam,bn,hidden,default,0.8007,0.6761
+Bulgaria,bg,hidden,default,0.568,0.5008
+Burkina Faso,bf,hidden,default,0.4946,0.6425
+Burundi,bi,hidden,default,0.5799,0.7079
+Cambodia,kh,hidden,default,0.7734,0.6397
+Cameroon,cm,hidden,default,0.5338,0.669
+Canada,ca,hidden,default,0.2135,0.3935
+Cape Verde,cv,hidden,default,0.4395,0.6373
+Cayman Islands,ky,hidden,default,0.2846,0.6192
+Central African Republic,cf,hidden,default,0.556,0.6679
+Chad,td,hidden,default,0.5509,0.6244
+Chile,cl,hidden,default,0.3116,0.8036
+China,cn,hidden,default,0.7664,0.5389
+Christmas Island,cx,hidden,default,0.7953,0.7521
+Colombia,co,hidden,default,0.3047,0.6854
+Comoros,km,hidden,default,0.6175,0.7383
+Congo,cg,hidden,default,0.5422,0.6948
+Democratic Republic of Congo,cd,hidden,default,0.5652,0.7086
+Cook Islands,ck,hidden,default,0.999,0.7954
+Costa Rica,cr,hidden,default,0.2731,0.6549
+Ivory Coast,ci,hidden,default,0.4871,0.6644
+Croatia,hr,hidden,default,0.5446,0.4819
+Cuba,cu,hidden,default,0.2925,0.6086
+Cyprus,cy,hidden,default,0.5883,0.5414
+Czech Republic,cz,hidden,default,0.5433,0.4569
+Denmark,dk,hidden,default,0.5252,0.4134
+Djibouti,dj,hidden,default,0.6125,0.6452
+Dominica,dm,hidden,default,0.3324,0.635
+Dominican Republic,do,hidden,default,0.3103,0.6186
+Ecuador,ec,hidden,default,0.2911,0.7057
+Egypt,eg,hidden,default,0.5763,0.5844
+El Salvador,sv,hidden,default,0.2618,0.6399
+Equatorial Guinea,gq,hidden,default,0.5283,0.688
+Eritrea,er,hidden,default,0.6007,0.6292
+Estonia,ee,hidden,default,0.5674,0.3936
+Ethiopia,et,hidden,default,0.6004,0.6593
+Faroe Islands,fo,hidden,default,0.481,0.3839
+Fiji,fj,hidden,default,0.957,0.7813
+Finland,fi,hidden,default,0.5723,0.3499
+France,fr,hidden,default,0.5091,0.4737
+French Guiana,gf,hidden,default,0.3548,0.681
+French Polynesia,pf,hidden,default,1.0511,0.7984
+Gabon,ga,hidden,default,0.5301,0.6974
+Gambia,gm,hidden,default,0.459,0.6393
+Georgia,ge,hidden,default,0.614,0.5018
+Germany,de,hidden,default,0.5275,0.4603
+Ghana,gh,hidden,default,0.4988,0.6654
+Gibraltar,gi,hidden,default,0.4869,0.5325
+Greece,gr,hidden,default,0.5582,0.516
+Greenland,gl,hidden,default,0.3777,0.1831
+Grenada,gd,hidden,default,0.3247,0.6465
+Guadeloupe,gp,hidden,default,0.3296,0.6308
+Guam,gu,hidden,default,0.8715,0.6449
+Guatemala,gt,hidden,default,0.2604,0.633
+Guernsey,gg,hidden,default,0.4942,0.4638
+Guinea,gn,hidden,default,0.4688,0.6485
+Guinea-Bissau,gw,hidden,default,0.4625,0.6449
+Guyana,gy,hidden,default,0.3403,0.6762
+Haiti,ht,hidden,default,0.305,0.6212
+Holy See,va,hidden,default,0.5317,0.5021
+Honduras,hn,hidden,default,0.2672,0.6391
+Hong Kong,hk,hidden,default,0.7992,0.5997
+Hungary,hu,hidden,default,0.5542,0.4724
+Iceland,is,hidden,default,0.4491,0.3342
+India,in,hidden,default,0.7078,0.6075
+Indonesia,id,hidden,default,0.8177,0.708
+Iran,ir,hidden,default,0.647,0.5545
+Iraq,iq,hidden,default,0.6169,0.5481
+Ireland,ie,hidden,default,0.4794,0.4366
+Isle of Man,im,hidden,default,0.4896,0.4299
+Israel,il,hidden,default,0.5923,0.5581
+Italy,it,hidden,default,0.536,0.5022
+Jamaica,jm,hidden,default,0.2928,0.623
+Japan,jp,hidden,default,0.8689,0.5012
+Jersey,je,hidden,default,0.4954,0.4647
+Jordan,jo,hidden,default,0.5961,0.5597
+Kazakhstan,kz,hidden,default,0.6888,0.4607
+Kenya,ke,hidden,default,0.6026,0.6933
+Kiribati,ki,hidden,default,1.0051,0.7225
+North Korea,kp,hidden,default,0.835,0.5098
+South Korea,kr,hidden,default,0.8339,0.5343
+Kuwait,kw,hidden,default,0.6261,0.5701
+Kyrgyzstan,kg,hidden,default,0.7017,0.5014
+Laos,la,hidden,default,0.7749,0.6187
+Latvia,lv,hidden,default,0.5694,0.4099
+Lebanon,lb,hidden,default,0.5947,0.545
+Lesotho,ls,hidden,default,0.5745,0.8238
+Liberia,lr,hidden,default,0.476,0.6703
+Libya,ly,hidden,default,0.5479,0.5768
+Liechtenstein,li,hidden,default,0.5288,0.4738
+Lithuania,lt,hidden,default,0.565,0.4195
+Luxembourg,lu,hidden,default,0.5177,0.4577
+Macao,mo,hidden,default,0.7954,0.6018
+Macedonia,mk,hidden,default,0.5595,0.5046
+Madagascar,mg,hidden,default,0.6657,0.6555
+Malawi,mw,hidden,default,0.5894,0.7491
+Malaysia,my,hidden,default,0.7662,0.6769
+Maldives,mv,hidden,default,0.6994,0.699
+Mali,ml,hidden,default,0.494,0.6227
+Malta,mt,hidden,default,0.5394,0.5382
+Martinique,mq,hidden,default,0.3293,0.6385
+Mauritania,mr,hidden,default,0.4756,0.6125
+Mauritius,mu,hidden,default,0.6437,0.769
+Mayotte,yt,hidden,default,0.6208,0.7426
+Mexico,mx,hidden,default,0.2287,0.5914
+Moldova,md,hidden,default,0.576,0.4733
+Monaco,mc,hidden,default,0.5207,0.495
+Mongolia,mn,hidden,default,0.7679,0.4774
+Montenegro,me,hidden,default,0.5512,0.5001
+Montserrat,ms,hidden,default,0.3253,0.6323
+Morocco,ma,hidden,default,0.4855,0.5527
+Mozambique,mz,hidden,default,0.6014,0.7555
+Myanmar,mm,hidden,default,0.7513,0.6144
+Namibia,na,hidden,default,0.5468,0.7873
+Nauru,nr,hidden,default,0.935,0.6572
+Nepal,np,hidden,default,0.723,0.5708
+Netherlands,nl,hidden,default,0.5172,0.445
+New Caledonia,nc,hidden,default,0.9327,0.7841
+New Zealand,nz,hidden,default,0.9531,0.8866
+Nicaragua,ni,hidden,default,0.2727,0.6436
+Niger,ne,hidden,default,0.5254,0.6288
+Nigeria,ng,hidden,default,0.5199,0.6622
+Norway,no,hidden,default,0.5274,0.3627
+Oman,om,hidden,default,0.6488,0.6125
+Pakistan,pk,hidden,default,0.6735,0.5824
+Palau,pw,hidden,default,0.8524,0.662
+Palestine,ps,hidden,default,0.5935,0.5534
+Panama,pa,hidden,default,0.2833,0.6628
+Papua New Guinea,pg,hidden,default,0.8748,0.7149
+Paraguay,py,hidden,default,0.3418,0.7908
+Peru,pe,hidden,default,0.3077,0.7528
+Philippines,ph,hidden,default,0.8171,0.6321
+Pitcairn,pn,hidden,default,0.0903,0.799
+Poland,pl,hidden,default,0.5492,0.4369
+Portugal,pt,hidden,default,0.4815,0.5093
+Puerto Rico,pr,hidden,default,0.3201,0.6211
+Qatar,qa,hidden,default,0.6354,0.5869
+Romania,ro,hidden,default,0.5667,0.48
+Russia,ru,hidden,default,0.6156,0.3752
+Rwanda,rw,hidden,default,0.5806,0.7028
+Saint Vincent and the Grenadines,vc,hidden,default,0.3322,0.6427
+Samoa,ws,hidden,default,0.997,0.7465
+San Marino,sm,hidden,default,0.5323,0.491
+Sao Tome and Principe,st,hidden,default,0.5162,0.6963
+Saudi Arabia,sa,hidden,default,0.6146,0.5871
+Senegal,sn,hidden,default,0.4683,0.6385
+Serbia,rs,hidden,default,0.5565,0.4926
+Seychelles,sc,hidden,default,0.6533,0.7211
+Sierra Leone,sl,hidden,default,0.4712,0.6601
+Singapore,sg,hidden,default,0.7715,0.6873
+Slovakia,sk,hidden,default,0.5535,0.4657
+Slovenia,si,hidden,default,0.5403,0.48
+Solomon Islands,sb,hidden,default,0.9157,0.7286
+Somalia,so,hidden,default,0.6301,0.6553
+South Africa,za,hidden,default,0.5619,0.8208
+South Sudan,ss,hidden,default,0.584,0.6683
+Spain,es,hidden,default,0.4986,0.514
+Sri Lanka,lk,hidden,default,0.7135,0.6655
+Sudan,sd,hidden,default,0.5797,0.6263
+Suriname,sr,hidden,default,0.3473,0.6791
+Swaziland,sz,hidden,default,0.584,0.8068
+Sweden,se,hidden,default,0.5421,0.3553
+Switzerland,ch,hidden,default,0.5233,0.4755
+Syrian Arab Republic,sy,hidden,default,0.6049,0.5375
+Taiwan,tw,hidden,default,0.8172,0.596
+Tajikistan,tj,hidden,default,0.6897,0.5242
+Tanzania,tz,hidden,default,0.5949,0.7202
+Thailand,th,hidden,default,0.7689,0.6239
+Timor-Leste,tl,hidden,default,0.831,0.7313
+Togo,tg,hidden,default,0.5042,0.6574
+Tokelau,tk,hidden,default,0.9906,0.7255
+Tonga,to,hidden,default,0.9776,0.799
+Trinidad and Tobago,tt,hidden,default,0.3262,0.6512
+Tunisia,tn,hidden,default,0.5258,0.5465
+Turkey,tr,hidden,default,0.5914,0.5194
+Turkmenistan,tm,hidden,default,0.6553,0.5183
+Tuvalu,tv,hidden,default,0.9578,0.7388
+Uganda,ug,hidden,default,0.5825,0.6908
+Ukraine,ua,hidden,default,0.5865,0.4602
+United Arab Emirates,ae,hidden,default,0.6433,0.5968
+United Kingdom,gb,hidden,default,0.499,0.4403
+United States,us,hidden,default,0.2603,0.5521
+Uruguay,uy,hidden,default,0.3504,0.844
+Uzbekistan,uz,hidden,default,0.673,0.5135
+Vanuatu,vu,hidden,default,0.9663,0.7704
+Venezuela,ve,hidden,default,0.3251,0.6651
+Vietnam,vn,hidden,default,0.7831,0.6376
+Western Sahara,eh,hidden,default,0.4661,0.5903
+Yemen,ye,hidden,default,0.6176,0.6345
+Zambia,zm,hidden,default,0.5676,0.7563
+Zimbabwe,zw,hidden,default,0.5797,0.7794
+Fiji,fj,hidden,default,0.9921,0.7513
+Madagascar,mg,hidden,default,0.6227,0.7744
